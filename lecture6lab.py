@@ -13,7 +13,6 @@ practice. Doing a large project is the best way to get comfortable with
 programming.
 """
 
-
 """"
 1. Define a class named 'Politician', each instance of which will have the properties 
 'name' and 'position', accepted as inputs. Then define a list named 'politicians' 
@@ -94,6 +93,8 @@ Hint: it might be easier for you to read and modify the code in a separate windo
 if you copy-paste whatever work you have done thus far and remove the comments!
 
 Bonus: what's the position that maximizes her tally?
+
+This part will not be auto-graded
 """
 
 
